@@ -1,2 +1,8 @@
-package cydeo;public class TestCase004 {
+package cydeo;
+
+public class TestCase004 {
+
+    public static void main(String[] args) {
+
+    }
 }
